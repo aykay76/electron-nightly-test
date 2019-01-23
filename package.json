@@ -1,0 +1,15 @@
+{
+  "name": "electron-nightly-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-nightly": "^5.0.0-nightly.20190122",
+    "electron-rebuild": "^1.8.2"
+  }
+}
